@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Messages</string>
+    <string name="register_bt">Don\'t have an account?</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="connect_bt">CONNECT</string>
+    <string name="m13033">Send your message to 13033.</string>
+    <string name="sms">Create SMS...</string>
+    <string name="x">X</string>
+    <string name="x2">X</string>
+    <string name="edit_Name">FULL NAME</string>
+    <string name="edit_Address">ADDRESS</string>
+    <string name="send_bt">SEND MESSAGE</string>
+    <string name="r_email">Email</string>
+    <string name="r_password">Password</string>
+    <string name="register_bt2">REGISTER</string>
+    <string name="r_password2">Confirm password</string>
+    <string name="back_bt2">BACK</string>
+    <string name="back_bt">LOGOUT</string>
+    <string name="textView4">Purpose of transportation:</string>
+    <string name="textview_Form">Fill out the form below:</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="message_sent">Your message was sent!</string>
+    <string name="fill">"You have to fill out all empty boxes! "</string>
+    <string name="connect_m">Log in successful!</string>
+    <string name="register_m">Sign up successful!</string>
+    <string name="password_m">Passwords don\'t match!</string>
+    <string name="recognize_bt">RECOGNIZE</string>
+    <string name="edit_sms">EDIT</string>
+    <string name="textview_choice">TextView</string>
+    <string name="add_message">Create new SMS...</string>
+    <string name="create_message">Create message:</string>
+    <string name="correct_message">Correct message:</string>
+    <string name="correct_bt">CORRECT</string>
+    <string name="create_bt">CREATE</string>
+    <string name="update_success">Correction successful!</string>
+    <string name="_0_">0</string>
+    <string name="enter_0">0</string>
+    <string name="new_success">New entry added!</string>
+    <string name="back_bt3">BACK</string>
+</resources>
